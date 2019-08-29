@@ -131,7 +131,7 @@
 /* ALS coefficients */
 #define DF                      52
 #define GA                      0.49
-#define B                       1.862
+#define APDS9930_B              1.862
 #define C                       0.746
 #define D                       1.291
 
